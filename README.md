@@ -113,7 +113,7 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 <br />
 
 ----
-<div allign="center" style="width=100%;display:flex;justify-content:center;align-items:center;">
+<div style="width=100%;display:flex;justify-content:center;align-items:center;background-color:red;padding:10px;">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700)](https://www.prashantkafle.com.np)
 </div>
