@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700)](https://www.prashantkafle.com.np)
 
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif)" align="center" style="width: 100%" />
+<img src="(https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif)" align="center" style="width: 100%" />
 </div>  
   
 
