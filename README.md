@@ -109,7 +109,7 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
   
 
 <br />
-## Github Streaks and Contributions
+## Streak and Contributions
 
 ----
 <div align="center">
