@@ -91,7 +91,7 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=meprazhant&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=meprazhant&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>
 
