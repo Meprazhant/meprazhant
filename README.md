@@ -94,7 +94,6 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=meprazhant&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700)](https://www.prashantkafle.com.np)
 
 
 <br/>  
@@ -114,4 +113,7 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div allign="center" style="width=100%">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700)](https://www.prashantkafle.com.np)
+</div>
