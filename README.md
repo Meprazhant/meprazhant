@@ -100,6 +100,11 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical  -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meprazhant&theme=radical" align="center" /></div>  
 
+<br />
+## Streak and Contributions
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700"/>
+</div>
 
 <br/>  
 
@@ -108,11 +113,8 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 </div>  
   
 
-<br />
-## Streak and Contributions
 
-----
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700"/>
 
-</div>
+
+
+
