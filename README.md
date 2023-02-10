@@ -102,9 +102,7 @@ Hello, I am Prashant, a full-stack developer from Jhapa Nepal. I have been build
 
 <br />
 ## Streak and Contributions
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=meprazhant&theme=dark&hide_border=true&background=DD272700"/>
-</div>
+
 
 <br/>  
 
